@@ -1,0 +1,14 @@
+{
+    "components": [
+        {
+            "label": "No data",
+            "content": "<b>No data loaded.</b>",
+            "refreshOnChange": false,
+            "key": "noData",
+            "customConditional": "show = !('availableYears' in data) || data.availableYears.length == 0;",
+            "type": "htmlelement",
+            "input": false,
+            "tableView": false
+        }
+    ]
+}
