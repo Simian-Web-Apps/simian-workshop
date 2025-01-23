@@ -18,7 +18,7 @@
 
 Installed programs and basic knowledge of:
 
-* Python 3.8 - 3.12
+* Python 3.8 - 3.11
 
     Local development mode uses `pywebview` installed with Simian Local.
 
