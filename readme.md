@@ -1,6 +1,6 @@
 # Python Simian workshop
 
-## Learning goals
+## Outline
 
 * Introduction into Simian
 * Build a Simian web app
@@ -26,7 +26,7 @@ Installed programs and basic knowledge of:
 
 * Git
 
-    (Optional) For cloning the workshop files from a Git repo and for pushing Simian GUI web apps to a deployment server.
+    (Optional) For cloning the workshop files from the Git repo and for pushing Simian GUI web apps to a deployment server.
 
     If interaction with the repository is not possible, the workshop files are provided in a .zip file.
 
@@ -51,7 +51,6 @@ Installed programs and basic knowledge of:
 ## Folder contents
 
 * This `readme.md` file
-* `Workshop_exercises.md` file describing the workshop.
-* `workshop_application.py`- blank Simian web app to work in.
-* `workshop_application.json` - blank Simian web app .json definition.
-* `runWorkshopExampleLocally.py` script to run the `simian.examples.workshop_example` web app.
+* `Workshop_exercises.md` - description of the workshop.
+* `workshop_application.py`- blank Simian web app to do the workshop in.
+* `workshop_application.json` - corresponding blank Simian web app .json definition.
